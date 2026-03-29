@@ -83,3 +83,7 @@ It recommends the most suitable crop based on soil nutrients and environmental c
 * Integration with real-time weather APIs
 * Mobile application
 * IoT-based smart farming
+---
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/7da6e356-79ca-492a-9c1d-b4b5cfed0ffd" />
+
+
